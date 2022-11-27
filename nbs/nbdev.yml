@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "test-housing-ageron"
+  site-url: "https://BriceChivu.github.io/test-housing-ageron"
+  description: "test"
+  repo-branch: main
+  repo-url: "https://github.com/BriceChivu/test-housing-ageron"
